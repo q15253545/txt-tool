@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 建置產物（exe 放在 GitHub Release，不進 git）
+build/
+dist/
+
+# 本機資料：開發紀錄、審查報告、參考網頁、截圖
+TODO.md
+bug/
+pending/
+crop*.png
